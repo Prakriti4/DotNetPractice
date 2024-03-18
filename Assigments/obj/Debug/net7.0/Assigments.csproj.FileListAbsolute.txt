@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\bin\Debug\net7.0\Assigments.exe
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\bin\Debug\net7.0\Assigments.deps.json
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\bin\Debug\net7.0\Assigments.runtimeconfig.json
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\bin\Debug\net7.0\Assigments.dll
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\bin\Debug\net7.0\Assigments.pdb
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\Assigments.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\Assigments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\Assigments.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\Assigments.AssemblyInfo.cs
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\Assigments.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\Assigments.dll
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\refint\Assigments.dll
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\Assigments.pdb
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\Assigments.genruntimeconfig.cache
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\Assigments\obj\Debug\net7.0\ref\Assigments.dll
