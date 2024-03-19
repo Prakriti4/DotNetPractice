@@ -6,19 +6,23 @@ namespace LearnCollections
 { 
     public class Collections
     { 
-        void LearnLists()
+      public  void LearnLists()
         { 
            List<byte> ages = new List<byte>{2,3};
            ages.Add(1); 
            ages.Add(20); 
            ages.Add(100);
            ages.Add(255);
-
+              Console.WriteLine("Numbers added to the list:");
+            foreach (var age in ages)
+            {
+                Console.WriteLine(age);
+            }
            List<Country> countries = new List<Country>();
            countries.Add(new Country());
 
         }
-      public   void LearnDictionary()
+      public void LearnDictionary()
         { 
             Dictionary<string , string> countryCapitals = new Dictionary<string, string> /*();*/
             {
