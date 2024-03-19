@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using LearnCollections; 
+public class Program
+{ 
+    static void Main(string[] args)
+    { 
+        Collections collections = new Collections(); 
+        collections.LearnDictionary();
+    }
+}
