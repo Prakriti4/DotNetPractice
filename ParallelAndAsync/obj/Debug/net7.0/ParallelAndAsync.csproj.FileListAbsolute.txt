@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\bin\Debug\net7.0\ParallelAndAsync.exe
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\bin\Debug\net7.0\ParallelAndAsync.deps.json
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\bin\Debug\net7.0\ParallelAndAsync.runtimeconfig.json
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\bin\Debug\net7.0\ParallelAndAsync.dll
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\bin\Debug\net7.0\ParallelAndAsync.pdb
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ParallelAndAsync.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ParallelAndAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ParallelAndAsync.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ParallelAndAsync.AssemblyInfo.cs
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ParallelAndAsync.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ParallelAndAsync.dll
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\refint\ParallelAndAsync.dll
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ParallelAndAsync.pdb
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ParallelAndAsync.genruntimeconfig.cache
+C:\Users\DELL\Desktop\.netpractice\DotNetPractice\ParallelAndAsync\obj\Debug\net7.0\ref\ParallelAndAsync.dll
